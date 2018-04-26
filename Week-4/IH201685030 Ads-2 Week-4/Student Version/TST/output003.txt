@@ -1,0 +1,9 @@
+smelled,smelt
+5
+that
+black,bled,blood
+5
+big,bug
+tall,ten,tense,tents,to,toast
+5
+stout,toast

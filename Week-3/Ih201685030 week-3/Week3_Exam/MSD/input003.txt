@@ -1,0 +1,6 @@
+5
+now,is,the,time,for,all,good,people,to,come,to,the,aid,of
+no,is,th,ti,fo,al,go,pe,to,co,to,th,ai,of,th,pa
+a,a,a,a,a,a,a,a,a
+001,002,003,004,005,006,007
+-2.5,-4.3,0,1,-3.4,-0.999,-12345

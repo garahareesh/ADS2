@@ -1,0 +1,9 @@
+stump,stunk,stunk,but
+5
+skunk,stunk,thunk
+manager,managing
+7
+an
+peck,peppers
+5
+Peter,Piper

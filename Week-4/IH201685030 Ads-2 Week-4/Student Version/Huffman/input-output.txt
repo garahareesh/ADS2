@@ -1,0 +1,17 @@
+
+I/P
+ABRACADABRA!
+
+O/P
+50 4a 22 43 43 54 a8 40 00 00 01 8f 96 8f 94
+120 bits
+
+
+I/P
+it was the best of times it was the worst of times
+
+O/P
+0b 45 de cb 20 2e 6b 7a cd 61 5d 0b 6a c5 72 b4
+80 00 00 19 7e 46 f1 c0 5e 8c cd 59 df c3 1f c8
+de 38 0a 35 dc cd 59 df c3 00
+336 bits
